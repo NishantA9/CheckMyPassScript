@@ -4,7 +4,7 @@ This script checks if a given password has been compromised using the "Have I Be
 You can install the requests library using pip:
     pip install requests
 
-Running the Script
+Running the Script:
     python password_checker.py <password1> <password2> ...
     
 eg:

@@ -6,6 +6,7 @@ You can install the requests library using pip:
 
 Running the Script
     python password_checker.py <password1> <password2> ...
+    
 eg:
     python password_checker.py password123 mysecurepassword anotherpassword
 
